@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 966711a9ce728a2449ebca304c6cf680
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8253168493794008338
+    second: tall_seagrass_top_0
+  - first:
+      213: 6883685648616971205
+    second: tall_seagrass_top_1
+  - first:
+      213: 5640706979780241956
+    second: tall_seagrass_top_2
+  - first:
+      213: -3275497015032728518
+    second: tall_seagrass_top_3
+  - first:
+      213: 2848344725359475698
+    second: tall_seagrass_top_4
+  - first:
+      213: 205923437037684566
+    second: tall_seagrass_top_5
+  - first:
+      213: 4820495306443914806
+    second: tall_seagrass_top_6
+  - first:
+      213: 6760008256331627886
+    second: tall_seagrass_top_7
+  - first:
+      213: -7288443296614806293
+    second: tall_seagrass_top_8
+  - first:
+      213: -956933544345480668
+    second: tall_seagrass_top_9
+  - first:
+      213: -6717610915021655333
+    second: tall_seagrass_top_10
+  - first:
+      213: -2036071762430003344
+    second: tall_seagrass_top_11
+  - first:
+      213: -8788631438369661222
+    second: tall_seagrass_top_12
+  - first:
+      213: -7365365355123132127
+    second: tall_seagrass_top_13
+  - first:
+      213: -5881507263356607611
+    second: tall_seagrass_top_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tall_seagrass_top_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee266f76bfad67d80800000000000000
+      internalID: -8253168493794008338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbd44740a3c78f50800000000000000
+      internalID: 6883685648616971205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 271
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a2ed3cc11d74e40800000000000000
+      internalID: 5640706979780241956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a343f14b1d81b82d0800000000000000
+      internalID: -3275497015032728518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbb8e0cf6a578720800000000000000
+      internalID: 2848344725359475698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 13
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6570f8366469bd200800000000000000
+      internalID: 205923437037684566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 175
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ef60ee0f6d5e240800000000000000
+      internalID: 4820495306443914806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 159
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dba5d61bf50dd50800000000000000
+      internalID: 6760008256331627886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec82b3007f3ada90800000000000000
+      internalID: -7288443296614806293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422d1afe20a48b2f0800000000000000
+      internalID: -956933544345480668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 111
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2f8d6d67046c2a0800000000000000
+      internalID: -6717610915021655333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077f727058b6eb3e0800000000000000
+      internalID: -2036071762430003344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade552e5542880680800000000000000
+      internalID: -8788631438369661222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129baee9b37f8c990800000000000000
+      internalID: -7365365355123132127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_seagrass_top_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583efb73e40b06ea0800000000000000
+      internalID: -5881507263356607611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tall_seagrass_top_0: -8253168493794008338
+      tall_seagrass_top_1: 6883685648616971205
+      tall_seagrass_top_10: -6717610915021655333
+      tall_seagrass_top_11: -2036071762430003344
+      tall_seagrass_top_12: -8788631438369661222
+      tall_seagrass_top_13: -7365365355123132127
+      tall_seagrass_top_14: -5881507263356607611
+      tall_seagrass_top_2: 5640706979780241956
+      tall_seagrass_top_3: -3275497015032728518
+      tall_seagrass_top_4: 2848344725359475698
+      tall_seagrass_top_5: 205923437037684566
+      tall_seagrass_top_6: 4820495306443914806
+      tall_seagrass_top_7: 6760008256331627886
+      tall_seagrass_top_8: -7288443296614806293
+      tall_seagrass_top_9: -956933544345480668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a5a0846-43a0-45eb-b12e-85c1ad167d91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../examin/examin/4fsc0pf001-summative-makeitwork-jayjay1509" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryspace/Assets/BSP.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryspace/Assets/BSP.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryspace/Assets/BSPgenerator_editor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryspace/Assets/BSPgenerator_editor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graph/Assets/scripte/treeNode.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graph/Assets/scripte/treeNode.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../voiture/maps generation/Assets/script/draw.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../voiture/maps generation/Assets/script/draw.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../voiture/maps generation/Assets/script/gameoflife_editor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../voiture/maps generation/Assets/script/gameoflife_editor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../voiture/markov/Assets/markovlink.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../voiture/markov/Assets/markovlink.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wavefonctioncolaps/Assets/generate_editor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wavefonctioncolaps/Assets/generate_editor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/FileContentIndex/338feb4d-ddec-41c4-9b61-16d9c41e3c48.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/FileContentIndex/51e70ecd-6d40-440c-a62d-596aeda59624.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/FileContentIndex/5c68f684-2617-43bc-8f0f-a7e2841bd6d9.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/ipch/AutoPCH/4edaea642b6a46d9/CHASSE AU TRESOR.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/ipch/AutoPCH/4edaea642b6a46d9/CHASSE AU TRESOR.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/ipch/AutoPCH/95bf911b912ece13/CHASSE AU TRESOR.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/ipch/AutoPCH/95bf911b912ece13/CHASSE AU TRESOR.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/ipch/AutoPCH/a2e34a1804de4904/MAPS CHASSE AU TRESOR.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/ipch/AutoPCH/a2e34a1804de4904/MAPS CHASSE AU TRESOR.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/ipch/AutoPCH/e478e64f61b51a56/MAPS CHASSE AU TRESOR.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/.vs/chasse au tresor/v17/ipch/AutoPCH/e478e64f61b51a56/MAPS CHASSE AU TRESOR.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/calcu chasse au tresore.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/calcu chasse au tresore.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/chasse au tresor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/chasse au tresor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/maps chasse au tresor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/maps chasse au tresor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/chasse au tresor.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/maps chasse au tresor.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/maps chasse au tresor.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/maps chasse au tresor.obj.enc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/maps chasse au tresor.obj.enc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.iobj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.iobj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.ipdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.ipdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/chasse au tresor.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/maps chasse au tresor.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/maps chasse au tresor.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projet 06.09.20223/chasse au tresor/x64/Release/vc143.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/454b8adca03e44db8a0e3ace7093e9b81cb800/3e/657a9456/Vector2Int.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7d303c2bf72cd4cec95665b89c457d265d2b8ef3ed6da17cd4f85587c2f9de7/System.Linq.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/isgrounded.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/script/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.tilemap@1.0.0/Editor/GridEditorUtility.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2czzsnypxNxxJEWymlgPC3FHer6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Maintenant prêt\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Maintenant prêt\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Maintenant prêt\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2023.2.0f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;C:\ecole\git\c++\projet\unity\rogue like&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\ecole\git\c++\projet\unity\rogue like" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2023.2.0f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;C:\ecole\git\c++\projet\unity\rogue like&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\ecole\git\c++\projet\unity\rogue like" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a5a0846-43a0-45eb-b12e-85c1ad167d91" name="Changes" comment="" />
+      <created>1709129403440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709129403440</updated>
+      <workItem from="1709129404510" duration="4757000" />
+      <workItem from="1709212976590" duration="7309000" />
+      <workItem from="1710317951576" duration="2010000" />
+      <workItem from="1710322543383" duration="13364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
