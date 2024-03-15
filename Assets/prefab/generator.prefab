@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5090557386570329238
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2990951174773102251}
+  - component: {fileID: 4935148894001191040}
+  m_Layer: 0
+  m_Name: generator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2990951174773102251
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5090557386570329238}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 392.201, y: 219.55072, z: -6.0904927}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4935148894001191040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5090557386570329238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 884155c862f75aa43bafdc1b1b9fd1e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _stone_tilemap: {fileID: 0}
+  _earth_tilemap: {fileID: 0}
+  _stone_3_tilemap: {fileID: 0}
+  _stone_4_tilemap: {fileID: 0}
+  _stone_5_tilemap: {fileID: 0}
+  _stone_6_tilemap: {fileID: 0}
+  _cuivre_tilemap: {fileID: 0}
+  _iron_tilemap: {fileID: 0}
+  _ore_tilemap: {fileID: 0}
+  _diamond_tilemap: {fileID: 0}
+  _adamentite_tilemap: {fileID: 0}
+  _Null_tilemap: {fileID: 0}
+  _floormap_final: {fileID: 0}
+  _stone_tilebase: {fileID: 11400000, guid: 2efd1075b972596459eda9aea8be3f54, type: 2}
+  _earth_tilebase: {fileID: 11400000, guid: 2f7c43a2ba15f5c4589174a68fe39994, type: 2}
+  _stone_3_tilebase: {fileID: 11400000, guid: b74dfc352dd7bb24f8518c9b0aea53ae, type: 2}
+  _stone_4_tilebase: {fileID: 11400000, guid: 43137a67b6bced44d9a30a414692b81c, type: 2}
+  _stone_5_tilebase: {fileID: 11400000, guid: 672d4978537273d4dbe16086b75dcaaf, type: 2}
+  _stone_6_tilebase: {fileID: 11400000, guid: 71dd12bb363b0fc4490349cc00441726, type: 2}
+  _cuivre_tilebase: {fileID: 11400000, guid: 1ca17ab571c79aa44a4c31089fc28eea, type: 2}
+  _iron_tilebase: {fileID: 11400000, guid: 3e00b86d992615d479c67d23fc9e8eb2, type: 2}
+  _ore_tilebase: {fileID: 11400000, guid: 1ae2accfcb2af514fa09c3e9095e7377, type: 2}
+  _diamond_tilebase: {fileID: 11400000, guid: 74b479a0565076344a613e25008f8a0e, type: 2}
+  _adamentite_tilebase: {fileID: 11400000, guid: 494a0023dc7e8284d87a757e4cd26a3c, type: 2}
+  _Null_tilebase: {fileID: 11400000, guid: 5a5a2152e2a3b01468cf81c3ac5e4b9e, type: 2}
+  _center: {x: 300, y: 120}
+  _size: {x: 600, y: 240}
+  _perlin: 5
+  _perlinscale: 100
+  _magic: 0.8
+  _perlin_mineral: 0
+  _perlinscale_mineral: 0
+  _magic_mineral: 0.071
+  _perlin_granit_y: 3
+  _perlinscale_granit_y: 180
+  _perlin_granit_x: 1
+  _perlinscale_granit_x: 151
+  _magic_granit: 25
+  avlive: 0400000005000000060000000700000008000000
+  dead: 0100000002000000030000000900000000000000
+  tentative: 0
+  avlive_1: 02000000050000000600000007000000
+  dead_1: 01000000040000000300000008000000
+  avlive_2: 0300000004000000050000000600000007000000
+  dead_2: 01000000020000000000000008000000
+  avlive_3: 0400000005000000060000000700000008000000
+  dead_3: 0100000002000000030000000900000000000000
+  tentative_3: 5
+  _stone_int: 0.4
+  _earth_int: 0
+  _stone_3_int: 0.15
+  _stone_4_int: 0
+  _stone_5_int: -0.25
+  _stone_6_int: -0.4
+  _cuivre_int: 0.35
+  _iron_int: 0.2
+  _ore_int: 0
+  _diamond_int: -0.2
+  _adamentite_int: -0.4
+  _final_int: 0
