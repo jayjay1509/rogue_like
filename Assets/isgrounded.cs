@@ -15,7 +15,7 @@ public class isgrounded : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Finish"))
+        if (other.gameObject.CompareTag("Terrain"))
         {
             Controller.isGrounded = true;
             Debug.Log("ta touche");
@@ -24,7 +24,7 @@ public class isgrounded : MonoBehaviour
     
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Finish"))
+        if (other.gameObject.CompareTag("Terrain"))
         {
             Controller.isGrounded = false;
         }

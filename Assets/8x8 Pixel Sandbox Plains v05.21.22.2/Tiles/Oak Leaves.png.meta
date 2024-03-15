@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oak Leaves_0: 2883550111290414507
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

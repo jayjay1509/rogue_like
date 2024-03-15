@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone Pillar Rotated_0: 5027211181087989113
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Green Moss_0: 1492174262718923387
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

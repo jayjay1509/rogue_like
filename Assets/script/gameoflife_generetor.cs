@@ -15,7 +15,7 @@ public class gameoflife_generetor : MonoBehaviour
     [SerializeField] private Tilemap _floormap_2;
     [SerializeField] private Tilemap _floormap_3;
     [SerializeField] private Tilemap _floormap_4;
-    [SerializeField] private Tilemap _floormap_final;
+    [SerializeField] public Tilemap _floormap_final;
 
     [Header("Tilebase")] [SerializeField] private TileBase _floorBase;
     [SerializeField] private TileBase _floorBase_1;

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: stone 1
   m_EditorClassIdentifier: 
   m_DefaultSprite: {fileID: 3427604410878684326, guid: 26fe9fe807e59834792ca7f9ffa2f3e5, type: 3}
-  m_DefaultGameObject: {fileID: 0}
+  m_DefaultGameObject: {fileID: 7977521180748195889, guid: 88a7a8b619bfe7c4eade0142d501ebf8, type: 3}
   m_DefaultColliderType: 1
   m_TilingRules: []

@@ -19,11 +19,14 @@ namespace Platformer
         private Rigidbody2D rigidbody;
         private Animator animator;
         private GameManager gameManager;
+
+        private StarterAssetsInputs _inputs;
         
 
         void Start()
         {
             rigidbody = GetComponent<Rigidbody2D>();
+            _inputs = GetComponent<StarterAssetsInputs>();
             animator = GetComponent<Animator>();
             gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
         }
@@ -32,9 +35,9 @@ namespace Platformer
         void FixedUpdate()
         {
             
-            if (Input.GetButton("Horizontal")) 
+            if (Mathf.Abs(_inputs.Move) > Mathf.Epsilon) 
             {
-                moveInput = Input.GetAxis("Horizontal");
+                moveInput = _inputs.Move;
                 Vector3 direction = transform.right * moveInput;
                 transform.position = Vector3.MoveTowards(transform.position, transform.position + direction, movingSpeed * Time.deltaTime);
                 animator.SetInteger("playerState", 1); // Turn on run animation
@@ -43,7 +46,7 @@ namespace Platformer
             {
                 if (isGrounded) animator.SetInteger("playerState", 0); // Turn on idle animation
             }
-            if(Input.GetKeyDown(KeyCode.Space) && isGrounded )
+            if(_inputs.Jump && isGrounded )
             {
                 rigidbody.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
             }

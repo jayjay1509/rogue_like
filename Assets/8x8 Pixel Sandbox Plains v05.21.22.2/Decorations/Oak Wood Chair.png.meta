@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oak Wood Chair_0: 3909020381821759485
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

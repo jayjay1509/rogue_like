@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: floor
   m_EditorClassIdentifier: 
   m_DefaultSprite: {fileID: -3306492095399533527, guid: d9b0906531d42b14a86f3f11ef15f908, type: 3}
-  m_DefaultGameObject: {fileID: 0}
+  m_DefaultGameObject: {fileID: 7977521180748195889, guid: 7b950cd5a40460f49869478218c21d3f, type: 3}
   m_DefaultColliderType: 1
   m_TilingRules:
   - m_Id: 0
